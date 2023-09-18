@@ -8,7 +8,7 @@ git remote add origin git@github.com:cyberhaventesting/ch.git
 git push -u origin main "# ch" >> README.md
 git init
 git add README.md
-git commit -m "first commit"
+git commit -m "firstEnterprisecommit"
 git branch -M main
 git remote add origin git@github.com:cyberhaventesting/ch.git
 git push -u origin main
