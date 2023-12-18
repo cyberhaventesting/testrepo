@@ -12,3 +12,7 @@ git commit -m "firstEnterprisecommit"
 git branch -M main
 git remote add origin git@github.com:cyberhaventesting/ch.git
 git push -u origin main
+Create DS
+Create Tracing Policy with Incident
+Move folder that contains some folders and files into another folder.
+Expected result: Incidents are created
